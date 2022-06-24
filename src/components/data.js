@@ -1,5 +1,4 @@
-{
-    "products": [
+var DATA = [
       {
         "availableSizes": ["S", "XS"],
         "currencyFormat": "$",
@@ -209,5 +208,5 @@
         "title": "On The Streets Black T-Shirt"
       }
     ]
-  }
-  
+
+  export default DATA;

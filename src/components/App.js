@@ -2,7 +2,7 @@ import React from "react";
 import Cart from "./Cart";
 import Main from "./Main";
 import Sidebar from "./Sidebar";
-import {products} from "./data.json";
+import products from "./data";
 function App() {
   return (
     <div className="wrapper flex space-between">
